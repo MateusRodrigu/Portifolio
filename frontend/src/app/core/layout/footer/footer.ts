@@ -13,11 +13,11 @@ export class Footer {
   public items: FooterItem[] = [
     {
       "iconPath": "assets/icons/footer/x.png",
-      "url": ""
+      "url": "https://x.com/Rodriguescoata"
     },
     {
       "iconPath": "assets/icons/footer/linkedin.png",
-      "url": ""
+      "url": "https://www.linkedin.com/in/mateus-costa-ab90a9364"
     },
     {
       "iconPath": "assets/icons/footer/youtube.png",
@@ -25,7 +25,7 @@ export class Footer {
     },
     {
       "iconPath": "assets/icons/footer/instagram.png",
-      "url": ""
+      "url": "https://www.instagram.com/costa.mate"
     }
   ];
 }
